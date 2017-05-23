@@ -1,0 +1,5 @@
+A full tutorial to generate a magento 2 module for both frontend and backend.
+The Model is called SimpleNews.
+This module contains codes for the grid list, edit form, menu, ACL for the backend. Furthermore, 
+it has frontend page for displaying the news list and the latest news at the right sidebar.
+
